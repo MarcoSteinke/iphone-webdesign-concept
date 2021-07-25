@@ -1,3 +1,5 @@
 = iphone-webdesign-concept
 
+The following screenshot shows a web design which I created in 2019. It is my try on creating a product presentation of the iPhone X
+
 image::https://github.com/MarcoSteinke/iphone-webdesign-concept/blob/main/screenshot.jpg?raw=true[]
