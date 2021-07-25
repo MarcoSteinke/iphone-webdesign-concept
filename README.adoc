@@ -1,1 +1,3 @@
 = iphone-webdesign-concept
+
+image::https://github.com/MarcoSteinke/iphone-webdesign-concept/blob/main/screenshot.jpg?raw=true[]
